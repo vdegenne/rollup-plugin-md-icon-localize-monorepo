@@ -1,0 +1,1 @@
+# rollup-plugin-md-icon-localize-monorepo
